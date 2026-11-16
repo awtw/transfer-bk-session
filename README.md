@@ -1,3 +1,16 @@
+<!-- monorepo-migration:start -->
+> [!IMPORTANT]
+> **本專案已遷移至 monorepo-side-project。**
+>
+> 自 2026-11-16 起，本儲存庫停止維護並封存，僅保留歷史紀錄；後續開發與更新請使用新儲存庫。
+>
+> **新專案目錄：** [`projects/transfer-bk-session`](https://github.com/awtw/monorepo-side-project/tree/main/projects/transfer-bk-session)
+>
+> **新儲存庫：** [awtw/monorepo-side-project](https://github.com/awtw/monorepo-side-project)。此為私人儲存庫，需具備存取權限才能開啟。
+<!-- monorepo-migration:end -->
+
+---
+
 <p align="center"><img src="Resources/AppIcon.png" width="128" alt="Session Porter icon"></p>
 
 # Session Porter
